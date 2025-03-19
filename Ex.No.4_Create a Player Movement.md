@@ -1,6 +1,6 @@
 # Ex.No: 4  Create a player Movement Script in unity 
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE: 19.3.2025                                                                           
+### REGISTER NUMBER :212223240104 
 ### AIM: 
 To write a program to create a player movement in unity.
 ### Algorithm:
