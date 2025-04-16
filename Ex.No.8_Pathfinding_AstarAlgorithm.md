@@ -138,10 +138,10 @@ Check the following
 4. AICharacter assigned a start and goal
 ```
 ### Output:
-```
+
 ![Screenshot 2025-04-07 143615](https://github.com/user-attachments/assets/602cc8f9-c648-4cd6-98b8-964aea078d52)
 
-```
+
 
 
 
