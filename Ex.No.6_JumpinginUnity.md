@@ -55,9 +55,9 @@ public class PlayerJump : MonoBehaviour
 }
 ```
 ### Output:
-```
+
 ![Screenshot 2025-04-16 160613](https://github.com/user-attachments/assets/26c0c976-a496-4548-a903-b195a802d6c7)
-```
+
 
 
 
