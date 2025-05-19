@@ -106,7 +106,8 @@ behaviors:
         strength: 1.0
 ```
 ### Output:
-![gg](https://github.com/user-attachments/assets/b1530431-61ca-4fe4-a1e5-00a5524b4b0d)
+![gg](https://github.com/user-attachments/assets/a94b7e3d-3e40-4377-b32e-af8eb8d30098)
+
 
 
 
